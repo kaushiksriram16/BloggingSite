@@ -1,0 +1,50 @@
+
+body{
+    background-color: antiquewhite;
+    overflow-x: hidden;
+}
+
+nav{
+    padding: 20px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+#signin{
+    float: right;
+}
+
+#ListOfBlogs{
+    padding:50px;
+}
+
+.card-body{
+    color: white;
+    font-size: large;
+}
+
+.card{
+    transition: 1s;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
+
+.card-title{
+    padding-top: 20px;
+}
+
+.card:hover{
+    box-shadow: 8px 8px 8px black;
+}
+
+#blogitem{
+    padding: 10px;
+}
+
